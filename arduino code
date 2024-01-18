@@ -1,6 +1,3 @@
-# arduino code
-
-
 #include <Servo.h>. 
    
  // Defines Tirg and Echo pins of the Ultrasonic Sensor  
