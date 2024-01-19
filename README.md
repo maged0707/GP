@@ -2,7 +2,7 @@
 
 ### Introduction:
 
-Allow me to present to you an exciting overview of my current graduation project, a practical showcase of applying robotics engineering and distance sensing in a monitoring and control system. This project aims to achieve an efficient monitoring system using robot techniques and sensors, providing accurate and continuously updated information.
+Allow me to present to you an overview of my current graduation project, a practical showcase of applying robotics engineering and distance sensing in a monitoring and control system. This project aims to achieve an efficient monitoring system using robot techniques and sensors, providing accurate and continuously updated information.
 
 ### Project Objectives:
 
